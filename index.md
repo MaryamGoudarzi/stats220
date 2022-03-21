@@ -4,7 +4,7 @@ Welcome to my stats220 website!
 
 ## About me
 
-I'm a student here in the university of Auckland double majoring in statistics and finance. **three things I like to do are drinking coffee, taking a beach walk, going on exciting events with my friends.** 
+I'm a student here in the university of Auckland double majoring in statistics and finance. **Three things I like to do are drinking coffee, taking a beach walk, going on exciting events with my friends.** 
 
 ## It's so fun making memes!
 
