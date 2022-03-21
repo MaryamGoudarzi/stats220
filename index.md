@@ -6,7 +6,7 @@ Welcome to my stats220 website!
 
 I'm a student here in the university of Auckland double majoring in statistics and finance. **Three things I like to do are drinking coffee, taking a beach walk, going on exciting events with my friends.** 
 
-## It's so fun making memes!
+## It's so much fun making memes!
 
 My motivation for making this coronavirus meme was to add a dose of humor or sarcasm about the new realities of life during this pandemic, according to [APA](https://www.apa.org/news/press/releases/2021/10/covid-19-stress-humor) viewing memes helps to relieve stress and cope better in the era of COVID-19. 
 
