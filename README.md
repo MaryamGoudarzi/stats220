@@ -6,7 +6,7 @@ This is my stats220 repo☺️.
 
 -*Feel free to⭐ my repo if you want, I would appreciate the feedback☺️💌*
 
--*Feel free to check out my [stats220!](https://maryamgoudarzi.github.io/stats220/)
+-*Feel free to check out my [stats220!](https://maryamgoudarzi.github.io/stats220/)*
 
 Statistics is the science of analyzing
 ![Statistics](https://cdn1.vectorstock.com/i/1000x1000/68/30/statistics-concept-vector-14496830.jpg)
