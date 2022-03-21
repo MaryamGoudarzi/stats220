@@ -15,7 +15,7 @@ My motivation for making this coronavirus meme was to add a dose of humor or sar
 What inspired me to create this *original* meme:
 
 1. I wanted to make a meme that's very much relevant to our new reality and how people are coping  
-2. I saw a meme of kanye west laughing at covid-19 memes at the start of the pandemic and another picture of him looking traumatized fast-forward 2022 LOL so I thought I should make one![KanyeWestmeme](https://covid-19archive.org/files/original/7f7659efc0732a62f9b3b2b6c36db32dea90ea78.jpg)
+2. I saw a meme of kanye west laughing at covid-19 memes at the start of the pandemic and another picture of him looking traumatized fast-forward 2022 LOL so I thought I should make one![KanyeWestmeme](https://imageio.forbes.com/specials-images/imageserve/5e740f3207adf00006db9d14/Coronavirus-meme-featuring-Kanye-West--created-by-meme-account--MasiPopal/960x0.jpg?fit=bounds&format=jpg&width=960)
 
 ### My meme.R **code** using code fences
 ```r
